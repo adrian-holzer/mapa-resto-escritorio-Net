@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FDC77989-ACDC-4032-8499-2ACBF0279964}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TP_Resto.NET</RootNamespace>
+    <AssemblyName>TP_Resto.NET</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Almacenamiento.cs" />
+    <Compile Include="CambiarHora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambiarHora.Designer.cs">
+      <DependentUpon>CambiarHora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CancelarReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CancelarReserva.Designer.cs">
+      <DependentUpon>CancelarReserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CerrarMesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CerrarMesa.Designer.cs">
+      <DependentUpon>CerrarMesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente.cs" />
+    <Compile Include="Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datos.Designer.cs">
+      <DependentUpon>Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Decoracion.cs" />
+    <Compile Include="DecoracionPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Diseño_Edicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diseño_Edicion.Designer.cs">
+      <DependentUpon>Diseño_Edicion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCarga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCarga.Designer.cs">
+      <DependentUpon>FormCarga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mesa.cs" />
+    <Compile Include="MesaPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MiMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiMessageBox.Designer.cs">
+      <DependentUpon>MiMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mozo.cs" />
+    <Compile Include="Previsualizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Previsualizacion.Designer.cs">
+      <DependentUpon>Previsualizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PuertaPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RegistrarReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarReserva.Designer.cs">
+      <DependentUpon>RegistrarReserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Serializer.cs" />
+    <Compile Include="TextoPuerta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextoPuerta.Designer.cs">
+      <DependentUpon>TextoPuerta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaInicial.Designer.cs">
+      <DependentUpon>VentanaInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CambiarHora.resx">
+      <DependentUpon>CambiarHora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancelarReserva.resx">
+      <DependentUpon>CancelarReserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CerrarMesa.resx">
+      <DependentUpon>CerrarMesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Datos.resx">
+      <DependentUpon>Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diseño_Edicion.resx">
+      <DependentUpon>Diseño_Edicion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCarga.resx">
+      <DependentUpon>FormCarga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiMessageBox.resx">
+      <DependentUpon>MiMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Previsualizacion.resx">
+      <DependentUpon>Previsualizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistrarReserva.resx">
+      <DependentUpon>RegistrarReserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextoPuerta.resx">
+      <DependentUpon>TextoPuerta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaInicial.resx">
+      <DependentUpon>VentanaInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

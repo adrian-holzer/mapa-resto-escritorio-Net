@@ -1,0 +1,60 @@
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\bin\Debug\TP_Resto.NET.exe.config
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\bin\Debug\TP_Resto.NET.exe
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\bin\Debug\TP_Resto.NET.pdb
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Properties.Resources.resources
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.VentanaInicial.resources
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.exe
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.pdb
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Diseño_Edicion.resources
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Previsualizacion.resources
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Datos.resources
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.CerrarMesa.resources
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.CancelarReserva.resources
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.RegistrarReserva.resources
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.TextoPuerta.resources
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.MiMessageBox.resources
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.FormCarga.resources
+C:\Users\USER\source\repos\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.CambiarHora.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\bin\Debug\TP_Resto.NET.exe.config
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\bin\Debug\TP_Resto.NET.exe
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\bin\Debug\TP_Resto.NET.pdb
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.CambiarHora.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.CancelarReserva.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.CerrarMesa.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Datos.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Diseño_Edicion.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.FormCarga.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.MiMessageBox.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Previsualizacion.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Properties.Resources.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.RegistrarReserva.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.TextoPuerta.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.VentanaInicial.resources
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.exe
+C:\Users\usuario\Documents\Trabajo Practico Final Prog 3\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.pdb
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\bin\Debug\TP_Resto.NET.exe.config
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\bin\Debug\TP_Resto.NET.exe
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\bin\Debug\TP_Resto.NET.pdb
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.CambiarHora.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.CancelarReserva.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.CerrarMesa.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Datos.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Diseño_Edicion.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.FormCarga.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.MiMessageBox.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Previsualizacion.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.Properties.Resources.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.RegistrarReserva.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.TextoPuerta.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.VentanaInicial.resources
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.exe
+C:\Users\usuario\Documents\tsp\Trabajos Practicos\Mapa Resto\TP_Resto.NET\TP_Resto.NET\obj\Debug\TP_Resto.NET.pdb
