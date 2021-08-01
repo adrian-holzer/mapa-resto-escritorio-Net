@@ -24,15 +24,23 @@
       <Ruta>C:..\Debug\img\01.png</Ruta>
     </Mesa>
     <Mesa>
-      <fecha>0001-01-01T00:00:00</fecha>
+      <cliente>
+        <Nombre>sdfsf</Nombre>
+        <Apellido>dfsdf</Apellido>
+        <Dni>234234</Dni>
+      </cliente>
+      <mozo>
+        <NombreYApellido>Juan Perez</NombreYApellido>
+      </mozo>
+      <fecha>2021-08-01T03:51:55.4713212-03:00</fecha>
       <fecha2>0001-01-01T00:00:00</fecha2>
-      <Estado>DISPONIBLE</Estado>
+      <Estado>OCUPADO</Estado>
       <NumeroMesa>5</NumeroMesa>
       <Location>
         <X>463</X>
         <Y>172</Y>
       </Location>
-      <Ruta>C:..\Debug\img\00.png</Ruta>
+      <Ruta>C:..\Debug\items\00_roja.png</Ruta>
     </Mesa>
     <Mesa>
       <fecha>0001-01-01T00:00:00</fecha>
@@ -46,15 +54,20 @@
       <Ruta>C:..\Debug\img\02.png</Ruta>
     </Mesa>
     <Mesa>
-      <fecha>2021-07-31T17:28:56.1031191-03:00</fecha>
-      <fecha2>2021-07-31T17:28:56.1031191-03:00</fecha2>
-      <Estado>DISPONIBLE</Estado>
+      <cliente>
+        <Nombre>sdfsdf</Nombre>
+        <Apellido>sdfsdf</Apellido>
+        <Dni>234234</Dni>
+      </cliente>
+      <fecha>2021-08-01T03:51:47.3658649-03:00</fecha>
+      <fecha2>2021-08-01T03:51:47.3718469-03:00</fecha2>
+      <Estado>RESERVADO</Estado>
       <NumeroMesa>7</NumeroMesa>
       <Location>
         <X>380</X>
         <Y>302</Y>
       </Location>
-      <Ruta>C:..\Debug\img\02.png</Ruta>
+      <Ruta>C:..\Debug\items\02_celeste.png</Ruta>
     </Mesa>
     <Mesa>
       <fecha>0001-01-01T00:00:00</fecha>
@@ -125,23 +138,15 @@
       <Ruta>C:..\Debug\img\03.png</Ruta>
     </Mesa>
     <Mesa>
-      <cliente>
-        <Nombre>wer</Nombre>
-        <Apellido>werwer</Apellido>
-        <Dni>345345</Dni>
-      </cliente>
-      <mozo>
-        <NombreYApellido>Juan Perez</NombreYApellido>
-      </mozo>
       <fecha>2021-07-31T17:29:13.6554371-03:00</fecha>
       <fecha2>0001-01-01T00:00:00</fecha2>
-      <Estado>OCUPADO</Estado>
+      <Estado>DISPONIBLE</Estado>
       <NumeroMesa>12</NumeroMesa>
       <Location>
         <X>516</X>
         <Y>333</Y>
       </Location>
-      <Ruta>C:..\Debug\items\04_roja.png</Ruta>
+      <Ruta>C:..\Debug\img\04.png</Ruta>
     </Mesa>
     <Mesa>
       <fecha>0001-01-01T00:00:00</fecha>
